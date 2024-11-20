@@ -12,7 +12,7 @@ const AntDesignProvider = ({ children }: { children: React.ReactNode }) => {
         token: {
             fontFamily: "'Inter', sans-serif",
             colorPrimary,
-            borderRadius: 5,
+            borderRadius: 2,
             colorLink: colorPrimary,
             colorBgContainer,
         },

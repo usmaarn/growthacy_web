@@ -14,15 +14,15 @@ export default function Navbar() {
   const items: MenuProps["items"] = [
     {
       key: "1",
-      label: <Link href="/">Blogs</Link>,
+      label: <Link href="/frontend/src/components/public">Blogs</Link>,
     },
     {
       key: "2",
-      label: <Link href="/">About</Link>,
+      label: <Link href="/frontend/src/components/public">About</Link>,
     },
     {
       key: "3",
-      label: <Link href="/">Contact</Link>,
+      label: <Link href="/frontend/src/components/public">Contact</Link>,
     },
   ];
 
